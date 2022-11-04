@@ -8,7 +8,7 @@ public class MainController {
 	@RequestMapping("/test")
 	public String m1()
 	{
-		return "This is only for test purpose";
+		return "This is only for spring test";
 	}
 	@RequestMapping("/test2")
 	public String m2()
